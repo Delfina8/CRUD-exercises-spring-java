@@ -12,6 +12,8 @@ target/
 .settings
 .springBeans
 .sts4-cache
+newsblog/src/main/resources/application.properties
+.application.properties
 
 
 ### IntelliJ IDEA ###
