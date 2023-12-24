@@ -14,7 +14,7 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 
 @Entity
-@Table(name = "tb_news")
+@Table(name = "tb_news_post")
 public class News {
 	
 	@Id
